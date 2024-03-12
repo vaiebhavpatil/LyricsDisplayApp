@@ -1,9 +1,10 @@
 Lyrics Display App
 
 This is a Java Swing application that allows users to search for song lyrics by entering the song name and artist. It fetches the lyrics from the lrclib.net API and displays them in a dialog window.
+
 Features
 
-    Search for song lyrics by entering the song name and artist.
+   Search for song lyrics by entering the song name and artist.
     Displays the lyrics in a dialog window with scrolling.
     Supports both plain lyrics and synced lyrics.
 
